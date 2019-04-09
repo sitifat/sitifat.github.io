@@ -1,0 +1,259 @@
+/* Start Body */
+body{
+    background-color: pink;
+    
+/* End Body */
+
+    
+/* Start Debug */
+.bg-blueviolet {
+    background-color:black;
+}
+
+.bg-blue {
+    background-color: rgb(53, 9, 248)
+}
+/* End Debug */
+
+/* Start Container */
+.container {
+    margin: 10px auto;
+    overflow: auto;
+    width: 100%;
+}
+/* End Container */
+
+/* Start Logo */
+.logo {
+    text-align: center;
+}
+/* End Logo */
+
+/* Start Menu Primer */
+.menu-primer ul {
+    background-color: #220afc;
+    border-radius: 4px;
+    box-shadow:
+        0 3px 5px -1px rgba(red, green, blue, alpha),
+        0 6px 10px 0 rgba(red, green, blue, alpha),
+        0 1px 18px 0 rgba(red, green, blue, alpha);
+   
+    text-align: center;
+}
+
+.menu-primer li {
+    border-right: 2px solid rgb(11, 3, 80);
+    display: inline-block;
+    margin: 0 -4px;
+
+}
+
+.menu-primer a {
+    color:#f0e7e7;
+    font-size: 15px;
+    display: inline-block;
+    letter-spacing: 1px;
+    padding: 10px 20px;
+    text-transform: uppercase;
+}
+.menu-primer a:hover {
+    background-color: #f0e7e7;
+    color: black;
+    text-decoration: none;
+}
+
+.menu-primer .active{
+    background-color: #f0e7e7;
+    color: black;
+    text-decoration: none;
+
+}
+/* End Menu Primer */
+
+/* Start Anchor Hyperlink */
+a:link,
+a:visited {
+    color: #f0e7e7
+    text-decoration: none;
+}
+a:hover,
+a:active {
+    color: #03000c;
+    text-decoration: underline;
+}
+/* End Anchor Hyperlink */
+
+/* Start Jumbotron */
+.jumbotron h1 {
+    color: rgb(2, 240, 248);
+    font-family: sans-serif;
+    font-size: 40px;
+    text-align: center;
+}
+/* End Jumbotron */
+
+/* Start Heading*/ 
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 400;
+    letter-spacing: 1px
+} 
+h1 {
+    font-weight: 28;
+}
+
+h2 {
+    font-weight: 24;
+}
+
+h3 {
+    font-weight: 18;
+}
+
+h4 {
+    font-weight: 16;
+}
+
+h5 {
+    font-weight: 14;
+}
+
+h6 {
+    font-weight: 13;
+}
+/* End Heading*/
+
+/* Start Jumbotron */
+.jumbotron {
+    background-color: #03000c;
+    border: 1px solid #03000c;
+    border-radius: 4px;
+    padding: 20px 0;
+}
+
+.jumbotron h1 {
+    font-size: 32px;
+    padding: 0 20px;
+}
+.jumbotron h3 {
+    font-size: 20px;
+    padding: 0 20px;
+}
+/* End Jumbotron */
+
+/* Start Sekunder */
+.menu-sekunder {
+    background-color: #f0e7e7;
+    border-bottom: 1px solid #220afc;
+    border-top: 1px solid #220afc;
+    overflow: auto;
+    padding: 10px 0;
+}
+
+.menu-sekunder h4 {
+    font-size: 14px;
+    margin: 0px;
+    text-transform: uppercase;
+}
+
+.menu-sekunder ul {
+    padding: 0px
+}
+.menu-sekunder li {
+    list-style: disc;
+}
+/*.menu-sekunder-one,
+.menu-sekunder-two,
+*/
+.menu-sekunder-three {
+    float: left;
+    display: inline-block;
+}
+
+/* End menu-sekunder */
+
+/* Start Copyright */
+.Copoyright p{
+    font-size: 15px;
+}
+/* End Copyright */
+/* Start font */
+<style>
+@import url('https://fonts.googleapis.com/css?family=Combo');
+</style>
+/* End Body */
+
+/* Start Body */
+body{
+    color: #03000c;
+    font-family:Combo, Helvetica, sans-serif sans-serif;
+    font-size: 16px;
+    line-height: 1.5em;
+    margin: 0;
+    padding: 0; 
+}
+/* End Body */
+
+    
+/* Start Debug */
+.bg-blueviolet {
+    background-color: rgb(177, 107, 241);
+}
+
+.bg-blue {
+    background-color: rgb(53, 9, 248)
+}
+/* End Debug */
+
+/* Start Container */
+.container {
+    margin: 10px auto;
+    overflow: auto;
+    width: 100%;
+}
+/* End Container */
+
+/* Start Logo */
+.logo {
+    text-align: center;
+}
+/* End Logo */
+
+/* Start Menu Primer */
+.menu-primer ul {
+    background-color: #220afc;
+    border-radius: 4px;
+    box-shadow:
+        0 3px 5px -1px rgba(red, green, blue, alpha),
+        0 6px 10px 0 rgba(red, green, blue, alpha),
+        0 1px 18px 0 rgba(red, green, blue, alpha);
+   
+    text-align: center;
+}
+
+.menu-primer li {
+    border-right: 2px solid rgb(11, 3, 80);
+    display: inline-block;
+    margin: 0 -4px;
+
+}
+
+.menu-primer a {
+    color:#f0e7e7;
+    font-size: 15px;
+    display: inline-block;
+    letter-spacing: 1px;
+    padding: 10px 20px;
+    text-transform: uppercase;
+}
+.menu-primer a:hover {
+    background-color: #f0e7e7;
+    color: black;
+    text-decoration: none;
+}
+
+.menu-primer .active{
+    background-color: #f0e7e7;
+    color: black;
+    text-decoration: none;
+
+}
